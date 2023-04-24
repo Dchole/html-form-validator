@@ -1,0 +1,22 @@
+form {
+  width: 400px;
+}
+
+form input {
+  width: 100%;
+  padding: 4px;
+  margin: 4px 0;
+  font-size: 1rem;
+}
+
+form > div {
+  margin-bottom: 4px;
+}
+
+form .actions {
+  margin: 16px 0;
+}
+
+.field-description.error {
+  color: red;
+}
